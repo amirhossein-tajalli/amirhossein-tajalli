@@ -1,5 +1,4 @@
 # Amirhossein Tajalli
-![Admin](https://img.shields.io/badge/-Admin-critical?style=flat&logo=github&logoColor=white)
 
 Mechanical Engineer | MSc in Space Structural Engineering | Research Assistant | CAD Designer | Developer
 
@@ -7,8 +6,7 @@ Mechanical Engineer | MSc in Space Structural Engineering | Research Assistant |
 
 This is the only official GitHub account for **Amirhossein Tajalli**. Any other GitHub accounts or pages with similar names are not related to me.
 
-## About
-![Info](https://img.shields.io/badge/-Info-blue?style=flat&logo=aboutdotme&logoColor=white)
+## ℹ️ About
 
 <div align="justify">
 Driven by curiosity and genuine eagerness to learn, I embrace challenges as opportunities to grow and develop new skills. I believe that dedication and an open mindset turn every experience into a chance for continuous improvement. Motivated to contribute meaningfully, I seek out environments that encourage innovation and push me beyond my comfort zone, fostering both professional and personal growth.
