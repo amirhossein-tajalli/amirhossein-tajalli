@@ -8,8 +8,8 @@ This is the only official GitHub account for **Amirhossein Tajalli**. Any other 
 
 ## 🌐 Connect
 
-[![linkedin](https://img.shields.io/badge/linkedin-Amirhossein%20Tajalli-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosseintajalli)
+[![linkedin](https://img.shields.io/badge/linkedin-Amirhossein%20Tajalli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosseintajalli)
 
-[![orcid](https://img.shields.io/badge/orcid-0009--0007--5525--2861-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5525-2861)
+[![orcid](https://img.shields.io/badge/orcid-0009--0007--5525--2861-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5525-2861)
 
-[![portfolio](https://img.shields.io/badge/portfolio-amirhossein--tajalli.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://amirhossein-tajalli.github.io)
+[![portfolio](https://img.shields.io/badge/portfolio-amirhossein--tajalli.github.io-000000?style=flat&logo=github&logoColor=white)](https://amirhossein-tajalli.github.io)
